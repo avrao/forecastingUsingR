@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535489231378.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3958497650",
+    "id" : "97DFC92F",
+    "lastKnownWriteTime" : 1535553069,
+    "last_content_update" : 1535553069195,
+    "path" : "~/Desktop/forecastingUsingR/ts1.R",
+    "project_path" : "ts1.R",
+    "properties" : {
+        "cursorPosition" : "44,14",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
